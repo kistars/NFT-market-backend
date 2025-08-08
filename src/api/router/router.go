@@ -5,10 +5,8 @@ import (
 
 	"github.com/gin-contrib/cors"
 	"github.com/gin-gonic/gin"
-
-	"github.com/ProjectsTask/EasySwapBackend/src/api/middleware"
-
-	"github.com/ProjectsTask/EasySwapBackend/src/service/svc"
+	"github.com/kistars/NFT-market-backend/src/api/middleware"
+	"github.com/kistars/NFT-market-backend/src/service/svc"
 )
 
 func NewRouter(svcCtx *svc.ServerCtx) *gin.Engine {

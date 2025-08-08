@@ -1,7 +1,7 @@
 package common
 
 import (
-	"github.com/ProjectsTask/EasySwapBackend/src/common/utils"
+	"github.com/kistars/NFT-market-backend/src/common/utils"
 	"github.com/ethereum/go-ethereum/common"
 	"github.com/kistars/NFT-market-base/evm/eip"
 	"github.com/pkg/errors"

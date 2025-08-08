@@ -6,7 +6,7 @@ import (
 	"fmt"
 	"strings"
 
-	"github.com/ProjectsTask/EasySwapBackend/src/types/v1"
+	"github.com/kistars/NFT-market-backend/src/types/v1"
 	"github.com/kistars/NFT-market-base/logger/xzap"
 	"github.com/kistars/NFT-market-base/stores/xkv"
 	"github.com/pkg/errors"

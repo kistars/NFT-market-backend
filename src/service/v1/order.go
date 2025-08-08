@@ -8,8 +8,8 @@ import (
 
 	"github.com/pkg/errors"
 
-	"github.com/ProjectsTask/EasySwapBackend/src/service/svc"
-	"github.com/ProjectsTask/EasySwapBackend/src/types/v1"
+	"github.com/kistars/NFT-market-backend/src/service/svc"
+	"github.com/kistars/NFT-market-backend/src/types/v1"
 )
 
 // GetOrderInfos 获取订单信息

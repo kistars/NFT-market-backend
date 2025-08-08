@@ -3,8 +3,8 @@ package svc
 import (
 	"context"
 
-	"github.com/ProjectsTask/EasySwapBackend/src/config"
-	"github.com/ProjectsTask/EasySwapBackend/src/dao"
+	"github.com/kistars/NFT-market-backend/src/config"
+	"github.com/kistars/NFT-market-backend/src/dao"
 	"github.com/kistars/NFT-market-base/chain/nftchainservice"
 	"github.com/kistars/NFT-market-base/logger/xzap"
 	"github.com/kistars/NFT-market-base/stores/gdb"

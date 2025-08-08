@@ -5,9 +5,9 @@ import (
 	"strconv"
 	"sync"
 
-	"github.com/ProjectsTask/EasySwapBackend/src/service/svc"
-	"github.com/ProjectsTask/EasySwapBackend/src/service/v1"
-	"github.com/ProjectsTask/EasySwapBackend/src/types/v1"
+	"github.com/kistars/NFT-market-backend/src/service/svc"
+	"github.com/kistars/NFT-market-backend/src/service/v1"
+	"github.com/kistars/NFT-market-backend/src/types/v1"
 	"github.com/gin-gonic/gin"
 	"github.com/kistars/NFT-market-base/errcode"
 	"github.com/kistars/NFT-market-base/logger/xzap"

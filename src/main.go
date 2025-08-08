@@ -4,10 +4,10 @@ import (
 	"flag"
 	_ "net/http/pprof"
 
-	"github.com/ProjectsTask/EasySwapBackend/src/api/router"
-	"github.com/ProjectsTask/EasySwapBackend/src/app"
-	"github.com/ProjectsTask/EasySwapBackend/src/config"
-	"github.com/ProjectsTask/EasySwapBackend/src/service/svc"
+	"github.com/kistars/NFT-market-backend/src/api/router"
+	"github.com/kistars/NFT-market-backend/src/app"
+	"github.com/kistars/NFT-market-backend/src/config"
+	"github.com/kistars/NFT-market-backend/src/service/svc"
 )
 
 const (

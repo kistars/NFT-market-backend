@@ -13,7 +13,7 @@ import (
 	"gorm.io/gorm"
 	"gorm.io/gorm/clause"
 
-	"github.com/ProjectsTask/EasySwapBackend/src/types/v1"
+	"github.com/kistars/NFT-market-backend/src/types/v1"
 )
 
 const CacheActivityNumPrefix = "cache:es:activity:count:"

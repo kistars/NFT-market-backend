@@ -1,10 +1,8 @@
-module github.com/ProjectsTask/EasySwapBackend
+module github.com/kistars/NFT-market-backend
 
 go 1.23.0
 
 toolchain go1.24.5
-
-// replace github.com/ProjectsTask/EasySwapBase => ../NFT-market-base
 
 require (
 	github.com/anyswap/CrossChain-Bridge v0.3.9

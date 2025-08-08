@@ -6,7 +6,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/ProjectsTask/EasySwapBackend/src/types/v1"
+	"github.com/kistars/NFT-market-backend/src/types/v1"
 	"github.com/kistars/NFT-market-base/stores/gdb/orderbookmodel/multi"
 	"github.com/pkg/errors"
 	"gorm.io/gorm"

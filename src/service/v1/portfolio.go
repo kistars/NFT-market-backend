@@ -7,9 +7,9 @@ import (
 	"strings"
 	"sync"
 
-	"github.com/ProjectsTask/EasySwapBackend/src/dao"
-	"github.com/ProjectsTask/EasySwapBackend/src/service/svc"
-	"github.com/ProjectsTask/EasySwapBackend/src/types/v1"
+	"github.com/kistars/NFT-market-backend/src/dao"
+	"github.com/kistars/NFT-market-backend/src/service/svc"
+	"github.com/kistars/NFT-market-backend/src/types/v1"
 	"github.com/kistars/NFT-market-base/stores/gdb/orderbookmodel/multi"
 	"github.com/pkg/errors"
 	"github.com/shopspring/decimal"

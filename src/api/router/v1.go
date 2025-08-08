@@ -3,9 +3,9 @@ package router
 import (
 	"github.com/gin-gonic/gin"
 
-	"github.com/ProjectsTask/EasySwapBackend/src/api/middleware"
-	v1 "github.com/ProjectsTask/EasySwapBackend/src/api/v1"
-	"github.com/ProjectsTask/EasySwapBackend/src/service/svc"
+	"github.com/kistars/NFT-market-backend/src/api/middleware"
+	v1 "github.com/kistars/NFT-market-backend/src/api/v1"
+	"github.com/kistars/NFT-market-backend/src/service/svc"
 )
 
 func loadV1(r *gin.Engine, svcCtx *svc.ServerCtx) {

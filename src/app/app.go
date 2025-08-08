@@ -3,8 +3,8 @@ package app
 import (
 	"context"
 
-	"github.com/ProjectsTask/EasySwapBackend/src/config"
-	"github.com/ProjectsTask/EasySwapBackend/src/service/svc"
+	"github.com/kistars/NFT-market-backend/src/config"
+	"github.com/kistars/NFT-market-backend/src/service/svc"
 	"github.com/gin-gonic/gin"
 	"github.com/kistars/NFT-market-base/logger/xzap"
 	"go.uber.org/zap"
